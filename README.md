@@ -1,13 +1,17 @@
 LoginRadius's Classic ASP SDK is used to implement Social Login on your Classic ASP website
+========
 
 Description: LoginRadius's Classic ASP SDK is a development kit that lets you integrate Social Login through providers such as Facebook, Google, Twitter, and over 20 more on a PHP website. The SDK also fetches user profile data and can be customized from your LoginRadius user account. Ex: social icon sets, login interface, provider settings, etc.
 
-Steps to implement LoginRadius Classic ASP SDK:
+Steps to implement LoginRadius Classic ASP SDK
+===
 
 Step 1: Add SDK file reference to your Classic ASP project directory
  
-    a. Copy the LoginRadius SDK with json file to your project directory
-    b. Include SDK class file on your callback page.
+ a. Copy the LoginRadius SDK with json file to your project directory
+ 
+ b. Include SDK class file on your callback page.
+ 
       <!-- #include file="LoginRadius.asp" -->
 
 Step 2: Call LoginRadius function with your unique API secret key
