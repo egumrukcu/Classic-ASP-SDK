@@ -49,6 +49,6 @@ Validate the object using 'IsAuthenticat' variable. After successful validation,
         End If
       %>
 
-Note: Few providers like Twitter, LinkedIn, etc. doesn't provide email address with User Profile data, so you need to handle these cases in your callback page.
+Note: Few providers like Twitter, vkontakte, etc. doesn't provide email address with User Profile data, so you need to handle these cases in your callback page.
 
 These are the quick and easy steps to integrate Social Login on your Classic ASP website, if you have any questions or need a further assistance please contact us at hello@loginradius.com.
